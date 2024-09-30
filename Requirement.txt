@@ -1,0 +1,5 @@
+tensorflow==2.10.0  # or the version you're using
+numpy==1.23.5
+opencv-python==4.8.0.76  # For handling real-time video and image processing
+Pillow==9.5.0  # For working with images
+tkinter  # Pre-installed with Python, needed for file dialogs
